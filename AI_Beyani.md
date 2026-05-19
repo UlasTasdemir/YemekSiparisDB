@@ -1,0 +1,6 @@
+YAPAY ZEKA KULLANIM BEYANI
+Bu projede yapay zeka aracı olarak Claude (claude.ai) kullandım.
+Projeye başlarken ilişkisel veritabanı tasarımı konusunda temel düzeyde bilgim vardı. ER diyagramı derste yaptığımız örnek ile birkaç kez  çizmiştim, normalizasyon kavramlarını (1NF, 2NF, 3NF) yüzeysel biliyordum. Trigger, View ve Index gibi ileri düzey SQL nesnelerini ise hiç kullanmamıştım.
+Claude'u bu projede bir asistan olarak kullandım. Tablo tasarımı aşamasında hangi tabloların gerektiğini birlikte tartıştık, ancak tablo isimlendirmeleri, kolon kararları ve ilişkiler tamamen benim tercihlerimle şekillendi. SQL sözdiziminde destek aldım, hata mesajlarını birlikte çözdük. Her adımda kodu anlamadan geçmedim, aklıma takılan her soruyu sordum.
+Bu süreçte en çok normalizasyon mantığını, FK bağımlılıklarını ve Trigger yazımını öğrendim. En zorlandığım kısım ise "Askıda Yemek" modülünün tasarımıydı. Bu modülün tablolarını, ilişkilerini ve bakiye düşme mantığını adım adım düşünerek tasarladım.
+Yapay zeka bu projede bir öğretmen ve asistan rolü üstlendi. Kodu yazan değil, öğreten taraf oldu.
